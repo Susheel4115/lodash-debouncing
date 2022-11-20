@@ -1,3 +1,11 @@
+
+# Creator : Susheel Kumar
+
+# gmail : gopisusheelkumar@gmail.com
+
+In this app I am going to use a delay for deboucing the application for performance and good user experience using lodash.debounce npm package. 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
