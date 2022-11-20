@@ -3,6 +3,8 @@
 
 # gmail : gopisusheelkumar@gmail.com
 
+### Deployed on cloudflare https://lodash-debouncing.pages.dev/
+
 In this app I am going to use a delay for deboucing the application for performance and good user experience using lodash.debounce npm package. 
 
 
